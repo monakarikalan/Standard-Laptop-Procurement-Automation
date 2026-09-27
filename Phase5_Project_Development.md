@@ -42,4 +42,4 @@ Approved
 Development Outcome
 
 The flow was successfully created and assigned to the Standard Laptop catalog item. The system is ready to automatically create catalog tasks after approval.
-<img width="1920" height="1080" alt="Flow_Designer png" src="https://github.com/user-attachments/assets/259fe644-5960-4ea9-aa5d-bdb2b80b3068" />
+<img width="1631" height="822" alt="phase5" src="https://github.com/user-attachments/assets/07134920-ffdd-4b04-851f-5c609dcff1bb" />
