@@ -1,5 +1,3 @@
-<img width="812" height="853" alt="workflow_diagram png" src="https://github.com/user-attachments/assets/c2fcf231-1708-43d8-b834-c2c82b3d7f84" />Phase 3: Project Design
-
 Project Title
 Standard Laptop Procurement Automation
 
